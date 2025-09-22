@@ -4,11 +4,11 @@
 **Focus:** Fundamentals of neural nets & word representation
 
 - **Day 1:** Implement perceptron (AND/OR/XOR)  
-  [Perceptron Folder](./perceptron/)
+  [Perceptron](./perceptron/)
 - **Day 2:** Build a small feedforward NN on MNIST digits (only 1 hidden layer)  
-  [Feedforward Notebook](./feedforward)
+  [Feedforward](./feedforward)
 - **Day 3:** Implement backpropagation manually (tiny dataset)  
-  [Backpropagation Notebook](./backpropagation)
+  [Backpropagation](./backpropagation)
 - **Day 4:** Implement word embeddings (Word2Vec skip-gram with toy corpus)
 - **Day 5:** Visualize embeddings with PCA/t-SNE
 - **Day 6:** Build an MLP for text classification (movie reviews tiny dataset)
