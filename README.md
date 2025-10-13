@@ -3,13 +3,10 @@
 ## Week 1: Neural Network & Language Basics
 **Focus:** Fundamentals of neural nets & word representation
 
-- **Day 1:** Implement perceptron (AND/OR/XOR)  
-  [Perceptron](./perceptron/)
-- **Day 2:** Build a small feedforward NN on MNIST digits (only 1 hidden layer)  
-  [Feedforward](./feedforward)
-- **Day 3:** Implement backpropagation manually (tiny dataset)  
-  [Backpropagation](./backpropagation)
-- **Day 4:** Implement word embeddings (Word2Vec skip-gram with toy corpus)
+- **Day 1:** Implement perceptron (AND/OR/XOR)  [Perceptron](./perceptron/)
+- **Day 2:** Build a small feedforward NN on MNIST digits (only 1 hidden layer)  [Feedforward](./feedforward)
+- **Day 3:** Implement backpropagation manually (tiny dataset)  [Backpropagation](./backpropagation)
+- **Day 4:** Implement word embeddings (Word2Vec skip-gram with toy corpus) [word2Vec](./word2vec/)
 - **Day 5:** Visualize embeddings with PCA/t-SNE
 - **Day 6:** Build an MLP for text classification (movie reviews tiny dataset)
 - **Day 7:** Reflection & mini-report: compare embeddings vs one-hot

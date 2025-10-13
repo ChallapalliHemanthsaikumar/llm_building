@@ -1,0 +1,1 @@
+ ** Implement word embeddings (Word2Vec skip-gram with toy corpus) **
