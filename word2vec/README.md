@@ -19,11 +19,11 @@
 
 ## Visual Comparisons
 See the following images for visual comparison of word distances and relationships in different embedding versions and open-source models:
-- ![Embedding Comparison 1](/v1_version_embedding.png)
-- ![Embedding Comparison 2](/v2_version_embedding.png)
-- ![Embedding Comparison 3](/v3_version_embedding.png)
-- ![GloVe Embedding Comparison](/glove_open_source_word_embedding.png)
-- ![BERT Embedding Comparison](/bert_embedding.png)
+v1_version_embedding.png
+- ![Embedding Comparison 2](v2_version_embedding.png)
+- ![Embedding Comparison 3](v3_version_embedding.png)
+- ![GloVe Embedding Comparison](glove_open_source_word_embedding.png)
+- ![BERT Embedding Comparison](bert_embedding.png)
 
 
 ## Insights from Open Source Models
